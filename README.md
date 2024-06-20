@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github.com/anuragpsarmah/anuragpsarmah/assets/90975247/b61779f2-ca36-4c64-b9cd-35fa2184ec28" alt="anuragpsarmahCoverImage" width="700" height="300" />
+  <img src="https://github.com/anuragpsarmah/anuragpsarmah/assets/90975247/b61779f2-ca36-4c64-b9cd-35fa2184ec28" alt="anuragpsarmahCoverImage" width="900" height="250" />
 </p>
 
 
