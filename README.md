@@ -10,8 +10,6 @@
   <a href="https://anuragpsarmah.me"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=About.me&logoColor=white"/></a>
 </p>
 
-<div align="center">
-
 ---
 
 ### 🛠 About Me
