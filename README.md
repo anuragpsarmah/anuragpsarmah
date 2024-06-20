@@ -1,10 +1,14 @@
-## Hey there 👋, I'm [Anurag!](https://github.com/anuragpsarmah/)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/anuragpsarmah)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anuragpsarmah)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_anuragsarmah/)
+<h2 align="center">Hey there 👋, I'm <a href="https://github.com/anuragpsarmah">Anurag!</a></h2>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuragpsarmah&theme=github-dark-dimmed&custom_title=Anurag's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://twitter.com/anuragpsarmah"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anuragpsarmah"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/_anuragsarmah/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
 
 ```yaml
 name: Anurag Parashar Sarmah
