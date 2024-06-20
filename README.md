@@ -12,17 +12,24 @@
 
 ---
 
-### 🛠 About Me
-
-- **Location:** Bangalore, India
-- **From:** Assam (Khar Khua Axomiya)
-- **Education:** Master’s in Computer Applications | Bachelor’s in Chemistry
-- **Interests:** Web Development, DevOps, Scalable Architecture
-- **Currently Learning:** Web3, NextJS, GoLang
-- **Hobbies:** Chess, Mobile Legends, Music
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuragpsarmah&theme=github-dark-dimmed&custom_title=Anurag's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+<div align="center">
+  
+### 🛠 About Me
 
+**Location:** Bangalore, India \
+**From:** Assam (Khar Khua Axomiya) \
+**Education:** Master’s in Computer Applications | Bachelor’s in Chemistry \
+**Interests:** Web Development, DevOps, Scalable Architecture \
+**Currently Learning:** Web3, NextJS, GoLang \
+**Hobbies:** Chess, Mobile Legends, Music 
+
+---
+</div>
+<div align="center">
+  
 ### 🌐 Technologies
 
 <p align="center">
@@ -42,3 +49,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+</div>
