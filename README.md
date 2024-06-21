@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-<h2 align="center">Hey there 👋, I'm <a href="https://github.com/anuragpsarmah">Anurag!</a></h2>
+<h1 align="center">Hey there 👋, I'm <a href="https://github.com/anuragpsarmah">Anurag!</a></h1>
 
 # 💫 About Me:
 **Location:** Bangalore, India<br>**From:** Assam (Khar Khua Axomiya)<br>**Education:** Master’s in Computer Applications | Bachelor’s in Chemistry<br>**Interests:** Web Development, DevOps, Scalable Architecture<br>**Currently Learning:** Web3, NextJS, GoLang<br>**Hobbies:** Chess, Mobile Legends, Music
