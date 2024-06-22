@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-<h1 align="center">Hey there 👋, I'm <a href="https://github.com/anuragpsarmah">Anurag!</a></h1>
+<h1 align="center">Hey there 👋, I'm <a href="https://www.anuragpsarmah.me/">Anurag!</a></h1>
 
 <div align="center">
 
