@@ -9,7 +9,7 @@
 ### 💫 About Me:
 **Location:** Bangalore, India<br>**From:** Assam (Khar Khua Axomiya)<br>**Education:** Master’s in Computer Applications | Bachelor’s in Chemistry<br>**Interests:** Web Development, DevOps, Scalable Architecture<br>**Currently Learning:** Web3, NextJS, GoLang<br>**Hobbies:** Chess, Mobile Legends, Music
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragpsarmah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anuragsarmah) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anuragpsarmah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuragpsarmah) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragpsarmah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuragpsarmah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anuragsarmah)
 
 ---
 
